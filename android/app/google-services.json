@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "928586580604",
+    "project_id": "ssup-ca6a0",
+    "storage_bucket": "ssup-ca6a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928586580604:android:549f7f85ac70ab550cbff9",
+        "android_client_info": {
+          "package_name": "com.example.ssup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtXy7R5FzlBEUpVIuydEj72_v-T_RH2mY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
